@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+  margin: 0;
+}
+
+body{
+	width: auto;
+}
+
+.emotion-btn {
+	display: inline-block;
+	background-color: transparent;
+	border: none;
+	font-size: 2em;
+	padding: 0.5em;
+}
+
+.emotion-btn:hover {
+	background-color: pink;	
+}
+
+.emotion-btn:active {
+	background-color: red;	
+}
